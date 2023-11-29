@@ -19,7 +19,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 4. Caso o Mario colida com um obstáculo, o jogo é encerrado. A tela de Game Over será exibida.
 
-5. Para jogar novamente, clique no botão de reinício ou na tecla <i>Enter</i>.
+5. Para jogar novamente, clique na tecla <i>F5</i>.
 
 ---
 <div id="tecnologias-utilizadas">
