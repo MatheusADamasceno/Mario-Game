@@ -6,49 +6,12 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Mario-Game/blob/main/Captura%20de%20tela%202023-11-28%20104528.png)
 
 </div>
-<div align=center>
-
-![License](https://img.shields.io/github/license/emilyfas/mario-game?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/emilyfas/mario-game?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/emilyfas/mario-game?style=flat-square)
-</div>
-
-## Visualizar o Projeto
-Você pode visualizar o projeto clicando no link abaixo:
-
-https://emilyfas.github.io/mario-game/
-
----
-# Índice 
-* [Título e Imagem de capa](#mário-game)
-* [Visualizar o projeto](#visualizar-o-projeto)
-* [Índice](#índice)
-* [Recursos Aprimorados](#recursos-aprimorados)
-* [Como Jogar](#como-jogar)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Contato](#contato)
-* [Creditos](#creditos)
 
 
-
----
-## Recursos Aprimorados
-
-1. Tela de Game Over: Agora, quando o jogador perde, é exibida uma tela de Game Over, indicando que o Mario colidiu com um obstáculo. Isso adiciona uma camada de feedback visual ao jogo.
-
-2. Botão de Reinício: Após o jogo terminar, o jogador pode reiniciá-lo facilmente com um novo botão de reinício. Isso evita a necessidade de recarregar a página para jogar novamente.
-
-3. Novas Teclas de Funcionalidade: Além das teclas de salto existentes, foram adicionadas novas teclas de funcionalidade para oferecer mais opções de interação durante o jogo.
-
-
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
 
 ## Como Jogar:
 
-1. [Abra o jogo](https://emilyfas.github.io/mario-game/) no seu navegador.  
+1. Abra o jogo no seu navegador.  
 
 2. Ao iniciar o jogo, o Mario estará em posição inicial.
 
@@ -66,31 +29,21 @@ https://emilyfas.github.io/mario-game/
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   
-</div>
-<div align="right">
-
-  [Índice :point_up:](#índice)
-</div>
 
 ---
 <div id="contato">
 
 ## Contato:
-### Emilly Fernandes
+### Matheus Alves
 Alguns meios de contato:
 <div>
-<a href="https://wa.me/5531989018696?text=Me+mande+um+Oi+%3A%29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/emillygarai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/emilly_fernads" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=5562992060399&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href = "mailto:emilly.fernandesads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emilly-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/matheusalvesdamasceno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
 
-<div align="right">
 
-  [Índice :point_up:](#índice)
-</div>
 
 ---
 <div id="creditos">
@@ -103,12 +56,8 @@ https://youtu.be/r9buAwVBDhA
 
 Projeto foi feito pelo canal "Manual do Dev", o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
 
-Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA) e aprimorado por [Emilly Fernandes]. Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
+Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA). Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
 
-<div align="right">
 
-  [Índice :point_up:](#índice)
-
-</div>
 </div>
 
