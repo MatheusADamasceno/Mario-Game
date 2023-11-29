@@ -3,7 +3,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 <div align="center">
 
-![Captura de tela - Mario Game](C:\Users\Home\Desktop\Projetos - Matheus Alves\Projeto mario\images\Captur)
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Mario-Game/blob/main/Captura%20de%20tela%202023-11-28%20104528.png)
 
 </div>
 <div align=center>
